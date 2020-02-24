@@ -31,10 +31,10 @@
     "lib",
     "types"
   ],
-  "homepage": "https://github.com/BoodskapPlatform/booskap-log4js-appender",
+  "homepage": "https://github.com/BoodskapPlatform/boodskap-log4js-appender",
   "license": "Apache-2.0",
   "main": "./lib/index.js",
-  "name": "booskap-log4js-appender",
+  "name": "boodskap-log4js-appender",
   "nyc": {
     "all": true,
     "include": [
@@ -43,8 +43,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BoodskapPlatform/booskap-log4js-appender.git"
+    "url": "git+https://github.com/BoodskapPlatform/boodskap-log4js-appender.git"
   },
   "types": "./types/index.d.ts",
-  "version": "1.0.2"
+  "version": "2.0.0"
 }
